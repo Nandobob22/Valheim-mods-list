@@ -1,0 +1,166 @@
+# Valheim Mods
+
+- [Custom_Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) - Customize raid events, override existing, extend with your own raids.
+- [Drop_That](https://thunderstore.io/c/valheim/p/ASharpPen/Drop_That/) - Tool for configuring loot tables.
+- [PlantEasily](https://thunderstore.io/c/valheim/p/Advize/PlantEasily/) - Allows you to plant evenly spaced crops, either one at a time or in any amount of rows and columns, with grid snapping features and invalid crop placement prevention. Harvest in bulk and optionally auto replant crops. Configurable and supports gamepad.
+- [PlantEverything](https://thunderstore.io/c/valheim/p/Advize/PlantEverything/) - Allows your cultivator to plant berry bushes, thistle, dandelions, mushrooms, previously unavailable tree types, and other decorative flora. Includes many other miscellaneous features (see description). Highly configurable with localization support.
+- [StumpsRegrow](https://thunderstore.io/c/valheim/p/Advize/StumpsRegrow/) - Allows tree stumps to regrow into the tree they once were after a configurable amount of time.
+- [AAA_Crafting](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/) - AzuAnti-ArthriticCrafting. Gives you an input field to enter the amount of items you want to craft, a search filter feature, and recipe tracking. Controller friendly, with virtual keyboard.
+- [AzuAreaRepair](https://thunderstore.io/c/valheim/p/Azumatt/AzuAreaRepair/) - Repair pieces in a specified area around the player when using the hammer to repair. Code pulled from OdinsQOL
+- [AzuAutoStore](https://thunderstore.io/c/valheim/p/Azumatt/AzuAutoStore/) - Automatically store and deposit items from your inventory or ground into nearby chests and containers. Chest management, hotkey support, quick stack, auto-pickup, favorites, ItemDrawers, backpacks, WardIsLove, ward protection.
+- [AzuCraftyBoxes](https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/) - AzuCraftyBoxes is a Valheim mod that allows players to access and use resources from nearby containers when crafting and building, based on a configurable range and item restrictions. Restrictions are controlled by the yaml file Azumatt.AzuCraftyBoxes.yml
+- [AzuExtendedPlayerInventory](https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/) - AzuEPI (Extended Player Inventory) is a comprehensive inventory expansion mod that adds more rows to inventory, equipment slots, quick slots, vanity customization, and loadout management to Valheim. Controller friendly.
+- [AzuHoverStats](https://thunderstore.io/c/valheim/p/Azumatt/AzuHoverStats/) - It shows information on things when you hover over them. What else is there to say?
+- [AzuMiscPatches](https://thunderstore.io/c/valheim/p/Azumatt/AzuMiscPatches/) - Collection of patches from OdinQOL that didn't really have a home in a mod of their own
+- [Build_Camera_Custom_Hammers_Edition](https://thunderstore.io/c/valheim/p/Azumatt/Build_Camera_Custom_Hammers_Edition/) - Adds a build camera to your vanilla and custom hammers. Build without climbing on things! Wisplight & Circlet follow the camera in build mode.
+- [MouseTweaks](https://thunderstore.io/c/valheim/p/Azumatt/MouseTweaks/) - Similar to Mouse Tweaks from Minecraft, this mod allows you to move items, split stacks, and more with your mouse and keyboard.
+- [MyPitsDontLeak](https://thunderstore.io/c/valheim/p/Azumatt/MyPitsDontLeak/) - Prevents the memory leak on vanilla tarpits by overriding and fixing the methods in the LiquidVolume component that causes it.
+- [NoBuildDust](https://thunderstore.io/c/valheim/p/Azumatt/NoBuildDust/) - Removes the build dust when building pieces in the game.
+- [NoCreatureDust](https://thunderstore.io/c/valheim/p/Azumatt/NoCreatureDust/) - NoCreatureDust mod for Valheim removes creature death VFX, including "dust" effects, with options to disable additional ragdoll and death effects for a cleaner visual experience.
+- [NoCultivatorDust](https://thunderstore.io/c/valheim/p/Azumatt/NoCultivatorDust/) - Removes the dust from the cultivator.
+- [NoHoeDust](https://thunderstore.io/c/valheim/p/Azumatt/NoHoeDust/) - 
+- [NoTreeDust](https://thunderstore.io/c/valheim/p/Azumatt/NoTreeDust/) - Removes the hit, destruction, and respawn effects/dust from trees, their logs, and stumps. Client-side only.
+- [NoWeaponDust](https://thunderstore.io/c/valheim/p/Azumatt/NoWeaponDust/) - NoWeaponDust mod for Valheim removes attack VFX, including default "dust" and other effects during combat, for a cleaner visual experience. Most noticed on Sledges
+- [PerfectPlacement](https://thunderstore.io/c/valheim/p/Azumatt/PerfectPlacement/) - Modular FreePlacementRotation, AdvancedBuildingMode, and AdvancedEditingMode from ValheimPlus. The author is not affiliated with the ValheimPlus team. See the description for full details and additional information
+- [PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) - Mod to automatically feed tamed animals from nearby containers, ensuring your pets stay happy and healthy without manual intervention.
+- [Recipe_Description_Expansion](https://thunderstore.io/c/valheim/p/Azumatt/Recipe_Description_Expansion/) - Adds a scroll component to the recipe description inside the crafting tab. Mods can now add a description to their recipes of any length without worrying about the description overflowing the crafting tab.
+- [Recycle_N_Reclaim](https://thunderstore.io/c/valheim/p/Azumatt/Recycle_N_Reclaim/) - A mod that allows you to recycle items back into resources used to make them. Adds a 'Reclaim' tab/button to the crafting menu. Additionally can be used inside of your inventory directly.
+- [RepairStation](https://thunderstore.io/c/valheim/p/Azumatt/RepairStation/) - Simple station to repair your shit. All at once or one at a time. Make it free, or cost {x} amount of {x} item. Just interact with this shit.
+- [SaveCrossbowState](https://thunderstore.io/c/valheim/p/Azumatt/SaveCrossbowState/) - Client mod that will save the state of the crossbow when you switch weapons (or otherwise unequip the crossbow). Meaning, if it was loaded, it will be loaded when you switch back to it.
+- [SearchableBuildMenu](https://thunderstore.io/c/valheim/p/Azumatt/SearchableBuildMenu/) - This mod introduces a powerful search functionality to the build menu, allowing players to quickly find pieces by name, mod origin, or specific resource requirements.
+- [Ship_Stats](https://thunderstore.io/c/valheim/p/Azumatt/Ship_Stats/) - A simple mod that I made at request. Shows the stats of the ship that you are currently on.
+- [TooltipExpansion](https://thunderstore.io/c/valheim/p/Azumatt/TooltipExpansion/) - Client only mod that adds a scrolling functionality to inventory tooltips. For use when you like your UI huge, your items overpowered and/or your tooltips long.
+- [TrueInstantLootDrop](https://thunderstore.io/c/valheim/p/Azumatt/TrueInstantLootDrop/) - Instantly drops the loot where the character dies, not where the ragdoll ends up. Ultimately, the same effect as InstantMonsterLootDrop with less overhead.
+- [Where_You_At](https://thunderstore.io/c/valheim/p/Azumatt/Where_You_At/) - A server and client side mod to force show position on the map.
+- [balrond_clawmajster](https://thunderstore.io/c/valheim/p/Balrond/balrond_clawmajster/) - Replaces Fist weapons secondary attack with Double Axes secondary attack
+- [MissingPieces](https://thunderstore.io/c/valheim/p/BentoG/MissingPieces/) - A fix for what impedes your building fix.
+- [SearsCatalog](https://thunderstore.io/c/valheim/p/ComfyMods/SearsCatalog/) - Resize and reposition the build panel in-game.
+- [BuildPieces](https://thunderstore.io/c/valheim/p/CookieMilk/BuildPieces/) - Stone, Moss, Clay, Ice, Lava Build Pieces! Now with additonal pieces plus Construction by MrSerji!
+- [DigDeeper](https://thunderstore.io/c/valheim/p/Crystal/DigDeeper/) - Allows digging deeper into the ground.
+- [SupplementalFoods](https://thunderstore.io/c/valheim/p/DTNC/SupplementalFoods/) - Adds long duration, short duration, and balanced foods to vanilla Valhiem
+- [SurtlingFuel](https://thunderstore.io/c/valheim/p/DejanGegic/SurtlingFuel/) - Use Surtling Cores as super-fuel in smelters and blast furnaces. 1 core = 4 coal equivalent + 2x smelting speed. Fully configurable.
+- [Better_Wisps](https://thunderstore.io/c/valheim/p/Digitalroot/Better_Wisps/) - Make the Wisp do a better job.
+- [Digitalroots_Slope_Combat_Assistance](https://thunderstore.io/c/valheim/p/Digitalroot/Digitalroots_Slope_Combat_Assistance/) - Digitalroot's take on the Slope Combat Fix mod. DoD compatible.
+- [FastTeleport](https://thunderstore.io/c/valheim/p/GemHunter1/FastTeleport/) - Shortens teleportation loading time to save those precious 8 seconds of our lives. Also makes entering dungeons instant.
+- [NoAFKEvents](https://thunderstore.io/c/valheim/p/GemHunter1/NoAFKEvents/) - Prevent random events/raids from happening around AFK players.
+- [Instantly_Destroy_Boats_And_Carts](https://thunderstore.io/c/valheim/p/Goldenrevolver/Instantly_Destroy_Boats_And_Carts/) - Allows you to instantly destroy a boat/ ship or cart with the destroy function of the hammer
+- [Riverheim](https://thunderstore.io/c/valheim/p/Gurebu/Riverheim/) - A comprehensive world generation overhaul that adds larger continents, forking rivers, epic mountains, lakes and many other features.
+- [Dungeon_Splitter](https://thunderstore.io/c/valheim/p/JereKuusela/Dungeon_Splitter/) - Separates dungeons from the main world reducing the amount of instances.
+- [Expand_World_Size](https://thunderstore.io/c/valheim/p/JereKuusela/Expand_World_Size/) - Allows configuring the world size and altitude settings.
+- [Projectile_Collision](https://thunderstore.io/c/valheim/p/JereKuusela/Projectile_Collision/) - Allows arrows to pass through iron cage floors and other similar structures.
+- [Server_devcommands](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/) - Enables devcommands and utilities for server admins.
+- [Smoke_Collision](https://thunderstore.io/c/valheim/p/JereKuusela/Smoke_Collision/) - Allows smoke to pass through iron cage floors and other similar structures. Also allows changing the smoke size.
+- [TripleBronze](https://thunderstore.io/c/valheim/p/KaceCottam/TripleBronze/) - Triples the amount of bronze you get with each craft so that crafting bronze is consistent (1 tin ingot + 2 copper ingots = 3 bronze ingots)
+- [OdinStorage](https://thunderstore.io/c/valheim/p/Koehlerworks/OdinStorage/) - Central storage terminal: view every nearby chest as one searchable inventory — withdraw, deposit, consolidate, fill level and an item finder. Multiplayer-safe via MultiUserChest.
+- [ReliableBlock](https://thunderstore.io/c/valheim/p/Korppis/ReliableBlock/) - Makes blocking and parrying more reliable and logical.
+- [SolidHitboxes](https://thunderstore.io/c/valheim/p/Korppis/SolidHitboxes/) - Makes AI attacks collide with their allies. No more shooting through mobs.
+- [Location_Placement_Accelerator](https://valheim.hexium.gg/mods/Kurios.ZeuS/Location_Placement_Accelerator) - When you use LPA during world generation or genloc or upgrade world, you place locations from ~86% [~7.4x] (single thread) to ~98% [~45x] (multithread) faster than vanilla, while placing more of them successfully too.
+- [DynamicStoragePiles](https://thunderstore.io/c/valheim/p/MSchmoecker/DynamicStoragePiles/) - Adds stacks and piles as new container pieces. Their appearance changes depending on the fill level.
+- [HammerTime](https://thunderstore.io/c/valheim/p/MSchmoecker/HammerTime/) - Moves all pieces from custom hammers to the vanilla hammer
+- [LocalizationCache](https://thunderstore.io/c/valheim/p/MSchmoecker/LocalizationCache/) - A small mod that caches localization loading, which can help improve startup performance and reduce possible connection timeouts
+- [MultiUserChest](https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/) - Allows multiple players to interact with the same chest at the same time
+- [PressurePlate](https://thunderstore.io/c/valheim/p/MSchmoecker/PressurePlate/) - A pressure plate for opening and closing doors
+- [TimeoutLimit](https://thunderstore.io/c/valheim/p/MSchmoecker/TimeoutLimit/) - Increases the timeout while connecting to a server to avoid disconnecting too early
+- [VNEI](https://thunderstore.io/c/valheim/p/MSchmoecker/VNEI/) - Valheim Not Enough Items. Displays all items and recipes inside a UI
+- [WhichModAddedThis](https://thunderstore.io/c/valheim/p/MSchmoecker/WhichModAddedThis/) - Adds the mod name to the item tooltip and hammer build hud
+- [Cats](https://thunderstore.io/c/valheim/p/Marlthon/Cats/) - Bring cuteness, comfort, and a touch of purrfection to the harsh lands of Valheim!
+- [EpicJewels](https://thunderstore.io/c/valheim/p/MidnightMods/EpicJewels/) - More Jewels for all your jewelcrafting needs.
+- [RecipeManager](https://thunderstore.io/c/valheim/p/MidnightMods/RecipeManager/) - A very lightweight recipe and piece modification framework
+- [ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/) - Shares the Map between all players, synchronizes map when connecting
+- [HUDCompass](https://thunderstore.io/c/valheim/p/Neobotics/HUDCompass/) - A Heads Up Display compass with map pins and dynamic markers for Ships, Carts and Portals
+- [RequipMe](https://thunderstore.io/c/valheim/p/Neobotics/RequipMe/) - Instantly re-equip from your tombstone!
+- [WolfPack](https://thunderstore.io/c/valheim/p/Neobotics/WolfPack/) - Become a Pack Master: Control all your tame creatures at the same time! NEW: Target your tames! Hover over a target and send them to attack.
+- [SpeedyPaths](https://thunderstore.io/c/valheim/p/Nextek/SpeedyPaths/) - Gives more purpose to paths. Increases player speed on paths and constructions. Reduces stamina consumed while sprinting on paths. Exposes optional modifiers for regular terrain in each biome. All values are tuneable.
+- [HeadRest](https://thunderstore.io/c/valheim/p/NullV3ct0r/HeadRest/) - Simple mod that gives you an extra comfort level for each boss trophy that is mounted near you.
+- [SkillLossMod](https://thunderstore.io/c/valheim/p/OLYMPOS/SkillLossMod/) - Instead of losing 5% skill value upon dying, you lose the all the progress towards the next skill level.
+- [CrystalArrows](https://thunderstore.io/c/valheim/p/OdinPlus/CrystalArrows/) - A Custom Arrow Mod Expansion for Jewelcrafting! Use Shattered or Simple Gems to create crystal arrows on the Jewelcrafting Table lvl3! Customizable stats and recipes.
+- [OdinArchitect](https://thunderstore.io/c/valheim/p/OdinPlus/OdinArchitect/) - Odin Architect is a mod that will allow you to build more with more structures and on a larger scale. You will find here not only larger counterparts of basic buildings but also completely new ones
+- [OdinTrainingPlace](https://thunderstore.io/c/valheim/p/OdinPlus/OdinTrainingPlace/) - Training Place is just simple mod for additional pieces thanks to which you can level up Your skills faster or just use them as decoration of your village. If you're building lover this is definitely another mod for you.
+- [OdinsFoodBarrels](https://thunderstore.io/c/valheim/p/OdinPlus/OdinsFoodBarrels/) - ModWish from OdinPlus Community - buildable dynamic storage containers for seeds, fruits, and vegetables!
+- [PotionPlus](https://thunderstore.io/c/valheim/p/OdinPlus/PotionPlus/) - Adds several potions to the game, now with improved skills, new potions, new config options, and server sync!!
+- [TeleportEverything](https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/) - This mod adds extra excitement and functionality to the portal system. Teleport wolves, boars, loxes and other allies. Transport ores, ingots, carts and even take enemies with you, or block players teleporting when enemies are nearby.
+- [HoneyPlus](https://thunderstore.io/c/valheim/p/OhhLoz/HoneyPlus/) - Adds new food items surrounding Honey
+- [DungeonMaps](https://thunderstore.io/c/valheim/p/OverDrive/DungeonMaps/) - Draws the dungeon you are standing in on your minimap and full map - burial chambers, sunken crypts, frost caves and infested mines, revealed room by room as you explore.
+- [ClimbingMod](https://thunderstore.io/c/valheim/p/Rotceh999/ClimbingMod/) - A mod that allows players to climb like in BoTW but in Valheim.
+- [VikingNPC](https://thunderstore.io/c/valheim/p/RustyMods/VikingNPC/) - Tameable vikings that can mine, lumber or fish. Friendly unless provoked
+- [More_Vanilla_Build_Prefabs](https://thunderstore.io/c/valheim/p/Searica/More_Vanilla_Build_Prefabs/) - Adds almost everything in the vanilla game to the hammer for building in survival mode. Every piece can be customized and enabled/disabled. Comes with a default configuration for ease of use. Uses Jotunn to sync configs if installed on server.
+- [SafetyStatus](https://thunderstore.io/c/valheim/p/Searica/SafetyStatus/) - Adds a new status effect (Safe) that indicates if you are within range of a structure that prevents monsters from spawning (such as beds or other objects that have a PlayerBase effect). Useful if you're trying to spawn-proof your base.
+- [Aura](https://valheim.hexium.gg/mods/Smoothbrain/Aura) - Makes creatures that cannot possibly kill you ignore you, instead of coming at you like maniacs.
+- [Backpacks](https://thunderstore.io/c/valheim/p/Smoothbrain/Backpacks/) - Adds a very nice backpack and Build Your Own Backpack™!
+- [Blacksmithing](https://thunderstore.io/c/valheim/p/Smoothbrain/Blacksmithing/) - Adds a skill that increases the durability of armor and weapons and other perks for blacksmithing.
+- [Building](https://thunderstore.io/c/valheim/p/Smoothbrain/Building/) - Adds a skill that increases the health of pieces built by you.
+- [CombatOwner](https://thunderstore.io/c/valheim/p/Smoothbrain/CombatOwner/) - Makes dodging and parrying in combat in multiplayer much easier.
+- [Cooking](https://thunderstore.io/c/valheim/p/Smoothbrain/Cooking/) - Adds a skill that increases health, stamina, eitr and HP regeneration for cooked food.
+- [CreatureLevelAndLootControl](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/) - Puts YOU in control of creature level and loot!
+- [DualWield](https://thunderstore.io/c/valheim/p/Smoothbrain/DualWield/) - Twice the weapons, twice the fun.
+- [Exploration](https://thunderstore.io/c/valheim/p/Smoothbrain/Exploration/) - Adds a skill that increases exploration radius and movement speed.
+- [Farming](https://thunderstore.io/c/valheim/p/Smoothbrain/Farming/) - Adds a skill that makes crops grow faster and increases item yield for harvesting crops.
+- [Foraging](https://thunderstore.io/c/valheim/p/Smoothbrain/Foraging/) - Adds a skill that increases item yield while foraging and makes berries and mushrooms respawn faster.
+- [Jewelcrafting](https://thunderstore.io/c/valheim/p/Smoothbrain/Jewelcrafting/) - Adds a risk / reward socket system to Valheim.
+- [Lumberjacking](https://thunderstore.io/c/valheim/p/Smoothbrain/Lumberjacking/) - Replaces the wood cutting skill with a Lumberjacking skill.
+- [Mining](https://thunderstore.io/c/valheim/p/Smoothbrain/Mining/) - Adds a skill that increases damage dealt while mining and item yield from ore deposits.
+- [PassivePowers](https://thunderstore.io/c/valheim/p/Smoothbrain/PassivePowers/) - Makes the boss powers weaker, but passive. Optionally, they can still be activated for a short burst of power.
+- [Ranching](https://thunderstore.io/c/valheim/p/Smoothbrain/Ranching/) - Adds a skill that makes taming animals faster and increases item yield of tamed creatures.
+- [Resurrection](https://thunderstore.io/c/valheim/p/Smoothbrain/Resurrection/) - Lets you open a portal to hell, to drag your friends back into the world of the living.
+- [Sailing](https://thunderstore.io/c/valheim/p/Smoothbrain/Sailing/) - Adds a skill that increases the health of ships, sailing speed and exploration radius while sailing.
+- [ServerCharacters](https://thunderstore.io/c/valheim/p/Smoothbrain/ServerCharacters/) - Saves your character on the server, instead of your computer, to prevent you from messing with it.
+- [StartupAccelerator](https://thunderstore.io/c/valheim/p/Smoothbrain/StartupAccelerator/) - Makes mods load faster.
+- [TargetPortal](https://thunderstore.io/c/valheim/p/Smoothbrain/TargetPortal/) - Lets you target any portal, instead of having to connect two portals via a tag.
+- [Thunderstruck](https://valheim.hexium.gg/mods/Smoothbrain/Thunderstruck) - Makes the lightning status effect increase damage taken, instead of it being purely cosmetic.
+- [RtDBiomes](https://thunderstore.io/c/valheim/p/Soloredis/RtDBiomes/) - Overhauls all Biomes entirely. Custom decorative garden pieces & decorative vines. Is a great companion for ExpandWorld.
+- [RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/) - This expansion adds new crops, sea life, sushi, stews, wraps, friendly ocean creatures, aggressive predators, underwater exploration content, relic crafting, and a full ocean boss encounter.
+- [BlastFurnaceTakesAll](https://thunderstore.io/c/valheim/p/TastyChickenLegs/BlastFurnaceTakesAll/) - Blast Furnace smelts all ore including copperscrap and Iron Ore.  Updated for Mistlands Original mod by tueman
+- [AutoRepair](https://thunderstore.io/c/valheim/p/Tekla/AutoRepair/) - Interacting with a workbench will repair all items it can from your inventory.
+- [Armory](https://thunderstore.io/c/valheim/p/Therzie/Armory/) - Adds the Armory forge that offers new variants of original armors that upgrade to the next biome.
+- [Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare/) - Fills the weapon and shields gap in vanilla Valheim and with MANY new weapons and unique extras!
+- [HookGenPatcher](https://thunderstore.io/c/valheim/p/ValheimModding/HookGenPatcher/) - Generates MonoMod.RuntimeDetour.HookGen's MMHOOK file during the BepInEx preloader phase.
+- [Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) - Jötunn (/ˈjɔːtʊn/, 'giant'), the Valheim Library was created with the goal of making the lives of mod developers easier. It enables you to create mods for Valheim using an abstracted API so you can focus on the actual content creation.
+- [JsonDotNET](https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/) - Shared version 13.0.3 of Json.NET from Newtonsoft, net45 package for use in Valheim mods. Maintained by the ValheimModding team.
+- [YamlDotNet](https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/) - Shared version 16.3.0 of YamlDotNet from Antoine Aubry and contributors, net47 package for use in Valheim mods. Maintained by the ValheimModding team.
+- [Valkyrie_Death_Messages](https://thunderstore.io/c/valheim/p/Valkyrie_Mods/Valkyrie_Death_Messages/) - Announce your cause of death via shout! Let your pain be heard!
+- [BetterSleepBruh](https://thunderstore.io/c/valheim/p/Vapok/BetterSleepBruh/) - A Valheim Mod that Sleeps Like Enshrouded! Sleep on your own terms! Sleep the night away faster without everyone having to be in a bed! Get Better Sleep, Bruh!
+- [ShieldMeBruh](https://thunderstore.io/c/valheim/p/Vapok/ShieldMeBruh/) - A Valheim Quality of Life Mod that will auto equip a selected shield when a one-handed weapon is equipped. I need a shield! Shield me Bruh!
+- [TheQueensDeadBruh](https://thunderstore.io/c/valheim/p/Vapok/TheQueensDeadBruh/) - God Save The Queen! Wait! No, Kill her so we get rid of this MIST!! Um.. Dude? The Queens Dead Bruh!
+- [FiresGhettoNetworking](https://thunderstore.io/c/valheim/p/VerdantsAscent/FiresGhettoNetworking/) - Comprehensive networking + server-authority mod with ZDO delta compression, WearNTear server/client CPU skips for invulnerable pieces, AoI-filtered RPC broadcasts, and a built-in per-client config auto-tuner.
+- [FiresSteamworksPatcher](https://thunderstore.io/c/valheim/p/VerdantsAscent/FiresSteamworksPatcher/) - BepInEx preloader patcher for FiresGhettoNetworking: adds the missing Steamworks recv-buffer enum members and raises the ZDOMan.SendZDOs queue cap so FGN's tuning reaches its full ceiling. Runs on servers and clients wherever FGN is installed.
+- [MoreMissingPieces](https://thunderstore.io/c/valheim/p/Vismeneer/MoreMissingPieces/) - Adds more 'missing' building pieces to Valheim.
+- [WackyEpicMMOSystem](https://thunderstore.io/c/valheim/p/WackyMole/WackyEpicMMOSystem/) - Adds to your Valheim world a system of levels and distribution of characteristics
+- [WackysDatabase](https://thunderstore.io/c/valheim/p/WackyMole/WackysDatabase/) - WackysDatabase allows you to control all items/recipes/pieces/creatures/materials/textures via YML files with ServerSync and so much more.
+- [Wings_of_the_Valkyrie](https://thunderstore.io/c/valheim/p/Wubarrk/Wings_of_the_Valkyrie/) - Four tiers of upgradable runic dragon wings with real armour, resistances and a Valkyrie Flight skill that grows with every wingbeat. Physics-based gliding, stamina-priced flapping, hand-forged icons, and woven-rune VFX - earn the sky.
+- [ZenItemStands](https://thunderstore.io/c/valheim/p/ZenDragon/ZenItemStands/) - Item Stands and Armor Stands behave like containers so that you can access them easily.  Swap gear with one button.
+- [Zen_ModLib](https://thunderstore.io/c/valheim/p/ZenDragon/Zen_ModLib/) - Shared code library used in all ZenMods.
+- [AutoNamePetFromAList](https://thunderstore.io/c/valheim/p/blacks7ar/AutoNamePetFromAList/) - A simple wish mod, auto names pet when they get tamed.
+- [BeeKeeper](https://thunderstore.io/c/valheim/p/blacks7ar/BeeKeeper/) - A simple mod that adds a new skill that increases beehives production rate and speed.
+- [CoreWoodPieces](https://thunderstore.io/c/valheim/p/blacks7ar/CoreWoodPieces/) - Extends vanilla corewood pieces and adds 23 more pieces that you can build.
+- [EquipGearWhileRunning](https://thunderstore.io/c/valheim/p/blacks7ar/EquipGearWhileRunning/) - A requested mod, equip a weapon/armor from the hotbar while running.
+- [FoodEitrRegen](https://thunderstore.io/c/valheim/p/blacks7ar/FoodEitrRegen/) - A simple mod that gives you a small fraction of eitr regen base on the eitr food you have eaten, can be multiplied by a configurable multiplier.
+- [MagicRevamp](https://thunderstore.io/c/valheim/p/blacks7ar/MagicRevamp/) - An alternative to my MagicPlugin mod, for those who wants a vanilla-like progression, adds 7 staves, 7 wands, 6 armor sets, 7 new materials, 1 crafting station with 2 extensions, a spellbook and 96 spells.
+- [NotificationsOverhaul](https://thunderstore.io/c/valheim/p/blacks7ar/NotificationsOverhaul/) - Overhauls the boring notification system with a configurable one.
+- [OneHandWeaponOnTheHip](https://thunderstore.io/c/valheim/p/blacks7ar/OneHandWeaponOnTheHip/) - A simple requested mod, changes how one hand weapons are holstered (except spears), instead on the back its holstered on the hip.
+- [TorchesAreFires](https://thunderstore.io/c/valheim/p/blacks7ar/TorchesAreFires/) - A simple mod that tweaks torch, groundtorch and walltorch behave like a campfire.
+- [TurretRevamped](https://thunderstore.io/c/valheim/p/blacks7ar/TurretRevamped/) - Automates ammo feeding, disables player and tamed getting targeted and add a bunch of configurable tweaks.
+- [VikingsDoSwim](https://thunderstore.io/c/valheim/p/blacks7ar/VikingsDoSwim/) - A simple mod that lets you configure Max Swim Speed at max swim skill level. Scales your swim speed, stamina regen and stamina consumption to your swim skill level. Adds a new diving mechanic that lets you swim underwater.
+- [WeaponHolsterOverhaul](https://thunderstore.io/c/valheim/p/blacks7ar/WeaponHolsterOverhaul/) - A simple mod that makes your character look cooler and more badass and lets you auto equip shield.
+- [WieldEquipmentWhileSwimming](https://thunderstore.io/c/valheim/p/blacks7ar/WieldEquipmentWhileSwimming/) - A simple mod that lets you wield your equipments while swimming/diving or in water (Configurable).
+- [CraftableJute](https://thunderstore.io/c/valheim/p/bonesbro/CraftableJute/) - Adds recipes to craft red and blue jute
+- [EpicBossFights](https://thunderstore.io/c/valheim/p/coemt/EpicBossFights/) - adds new attacks to some of the bosses
+- [SmashtheGarden](https://thunderstore.io/c/valheim/p/coemt/SmashtheGarden/) - All garden plants + mushrooms can now be attacked to harvest, just like barley and flax.
+- [Surtling_Boats](https://thunderstore.io/c/valheim/p/coemt/Surtling_Boats/) - Allows you to use Surtling cores to speed up boats, can now choose a different item in the config
+- [GoosCombatOverhaul](https://thunderstore.io/c/valheim/p/gnls/GoosCombatOverhaul/) - Modernize your Valheim combat experience with newly introduced Souls-like mechanics! Supports customization for NEARLY EVERYTHING related to combat: Enemy/player size, per weapon attack speed, damage, stagger, hyperarmor, and much more.
+- [HideToScrap](https://thunderstore.io/c/valheim/p/larlasia/HideToScrap/) - Adds a crafting recipe to the Workbench that makes Leather Scraps from Deer Hide.
+- [ItemDrawers](https://thunderstore.io/c/valheim/p/makail/ItemDrawers/) - Adds a drawer that can store a large quantity of a single item. Displays the item on the front of the drawer as well as the quantity stored.
+- [InstantComfort](https://thunderstore.io/c/valheim/p/mtsukn/InstantComfort/) - Applies rested instantly
+- [Colored_Food_UI](https://thunderstore.io/c/valheim/p/nbusseneau/Colored_Food_UI/) - Colors food UI backgrounds based on their dominant stat. Client-side, no configuration.
+- [MoreJewelry](https://thunderstore.io/c/valheim/p/probablykory/MoreJewelry/) - A highly configurable mod for Valheim which adds several new jewelery models for Jewelcrafting.
+- [BiomeGate](https://thunderstore.io/c/valheim/p/shudnal/BiomeGate/) - Prevent players from exploring and interacting with selected biomes. Protect your server from racing ahead lovers.
+- [BuildPiecesCustomized](https://thunderstore.io/c/valheim/p/shudnal/BuildPiecesCustomized/) - Customize individual build pieces. Set properties globally such as rain, water, ash, lava damage immunity. Customize global material type properties.
+- [BuyDvergrExtractorNeedle](https://thunderstore.io/c/valheim/p/shudnal/BuyDvergrExtractorNeedle/) - Buy configured Dvergr crates peacefully. Nearby Dvergrs keep the payment, which can be recovered from them later.
+- [ConditionalConfigSync](https://thunderstore.io/c/valheim/p/shudnal/ConditionalConfigSync/) - Shared config synchronization and server policy library for Valheim mods. Installed as a dependency and compatible with Jotunn and ServerSync.
+- [ConfigurationManager](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/) - Localized, recolored, refined. Split view mode. Config files editor. Setting edit window. Changed values are highlighted. Prevent user input or pause the game while window is open. Window scale depends on game scale.
+- [LongshipUpgrades](https://thunderstore.io/c/valheim/p/shudnal/LongshipUpgrades/) - Upgrade your vanilla Longship piece by piece with lantern, changeable sails, tent, shields, extended storage and more.
+- [BlackMetalBuildPieces](https://thunderstore.io/c/valheim/p/thedefside/BlackMetalBuildPieces/) - Makes Black Metal versions of the Iron build pieces.
+- [BigPieces](https://thunderstore.io/c/valheim/p/vaffle1/BigPieces/) - Adds analogues of existing building elements
+- [FPSPlus](https://thunderstore.io/c/valheim/p/vaffle1/FPSPlus/) - Optimizing the game without losing image quality
+- [Greydwarfs_Dont_Circle](https://thunderstore.io/c/valheim/p/warpalicious/Greydwarfs_Dont_Circle/) - Removes the circle player during combat behavior from Greydwarfs
+- [More_World_Locations_AIO](https://thunderstore.io/c/valheim/p/warpalicious/More_World_Locations_AIO/) - Adds 181 new POI locations including dungeons, traders, ports and much more to enhance Valheim's world exploration.
+- [DisplayDayAndTimeInHUD](https://thunderstore.io/c/valheim/p/yudi7ll/DisplayDayAndTimeInHUD/) - Simple UI mod to display the in-game day & time / clock in the HUD above the minimap.
