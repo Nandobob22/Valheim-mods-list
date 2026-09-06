@@ -125,7 +125,7 @@
 - [MoreMissingPieces](https://thunderstore.io/c/valheim/p/Vismeneer/MoreMissingPieces/) - Adds more 'missing' building pieces to Valheim.
 - [WackyEpicMMOSystem](https://thunderstore.io/c/valheim/p/WackyMole/WackyEpicMMOSystem/) - Adds to your Valheim world a system of levels and distribution of characteristics
 - [WackysDatabase](https://thunderstore.io/c/valheim/p/WackyMole/WackysDatabase/) - WackysDatabase allows you to control all items/recipes/pieces/creatures/materials/textures via YML files with ServerSync and so much more.
-- [Wings_of_the_Valkyrie](https://valheim.hexium.gg/mods/Wubarrk/Wings_of_the_Valkyrie) - Four tiers of upgradable runic dragon wings with real armour, resistances and a Valkyrie Flight skill that grows with every wingbeat. Physics-based gliding, stamina-priced flapping, hand-forged icons, and woven-rune VFX - earn the sky.
+- [OdinFlight](https://thunderstore.io/c/valheim/p/satnteam/ODINFLIGHT_Updated/) - Craftable Odin Wings that let you fly.
 - [ZenItemStands](https://thunderstore.io/c/valheim/p/ZenDragon/ZenItemStands/) - Item Stands and Armor Stands behave like containers so that you can access them easily.  Swap gear with one button.
 - [Zen_ModLib](https://thunderstore.io/c/valheim/p/ZenDragon/Zen_ModLib/) - Shared code library used in all ZenMods.
 - [AutoNamePetFromAList](https://thunderstore.io/c/valheim/p/blacks7ar/AutoNamePetFromAList/) - A simple wish mod, auto names pet when they get tamed.

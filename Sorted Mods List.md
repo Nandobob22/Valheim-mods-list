@@ -13,7 +13,7 @@ Some of these are **much bigger changes than their descriptions initially make o
 | **[CreatureLevelAndLootControl](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/)** | Makes creatures and bosses able to spawn with 5 stars.                        |
 | **[DualWield](https://thunderstore.io/c/valheim/p/Smoothbrain/DualWield/)**                   | Adds a combat mechanic that vanilla doesn't have.                                                   |
 | **[Jewelcrafting](https://thunderstore.io/c/valheim/p/Smoothbrain/Jewelcrafting/)**               | Adds an equipment/socket progression system on top of vanilla gear.                                 |
-| **[Wings of the Valkyrie](https://valheim.hexium.gg/mods/Wubarrk/Wings_of_the_Valkyrie)**       | Gives players actual flight/gliding, which can have a major impact on exploration and building. |
+| **[OdinFlight](https://thunderstore.io/c/valheim/p/satnteam/ODINFLIGHT_Updated/)** | Craftable Odin Wings that let you fly.
 | **[Teleport Everything](https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/)**          | Can remove some of vanilla Valheim's transportation restrictions.                                   |
 | **[ServerSideMap](https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/)**               | Changes the fundamental "everyone explores their own map" behavior.                                 |
 | **[Resurrection](https://thunderstore.io/c/valheim/p/Smoothbrain/Resurrection/)**                | Changes the consequences of death by allowing players to be brought back.                           |
@@ -57,7 +57,7 @@ Mods that add magic, spells, magical equipment, or fantasy-style progression tha
 
 * [MagicRevamp](https://thunderstore.io/c/valheim/p/blacks7ar/MagicRevamp/) — Adds staves, wands, armor sets, materials, a spellbook, crafting station, and 96 spells while maintaining a relatively vanilla-like progression.
 * [PotionPlus](https://thunderstore.io/c/valheim/p/OdinPlus/PotionPlus/) — Adds additional potions and potion-related progression.
-* [Wings of the Valkyrie](https://valheim.hexium.gg/mods/Wubarrk/Wings_of_the_Valkyrie) — Adds upgradeable dragon wings with gliding, flying, armor, resistances, and a flight skill.
+* [OdinFlight](https://thunderstore.io/c/valheim/p/satnteam/ODINFLIGHT_Updated/) - Craftable Odin Wings that let you fly.
 * [EpicJewels](https://thunderstore.io/c/valheim/p/MidnightMods/EpicJewels/) — Adds additional jewels for the Jewelcrafting system.
 * [MoreJewelry](https://thunderstore.io/c/valheim/p/probablykory/MoreJewelry/) — Adds additional customizable jewelry for Jewelcrafting.
 * [Jewelcrafting](https://thunderstore.io/c/valheim/p/Smoothbrain/Jewelcrafting/) - Adds a risk / reward socket system to Valheim.
