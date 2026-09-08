@@ -7,7 +7,6 @@ Some of these are **much bigger changes than their descriptions initially make o
 | **[AzuExtendedPlayerInventory](https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/)** | Expands your inventory and adds equipment, quick slots, vanity customization, and loadouts. |
 | **[MagicRevamp](https://thunderstore.io/c/valheim/p/blacks7ar/MagicRevamp/)**                 | Adds a completely new magic progression alongside vanilla progression.                              |
 | **[WackyEpicMMOSystem](https://thunderstore.io/c/valheim/p/WackyMole/WackyEpicMMOSystem/)**          | Turns Valheim into more of an RPG with character levels/stats.                                      |
-| **[RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/)**                    | Essentially creates a much larger ocean/ocean progression system.                                   |
 | **[Riverheim](https://thunderstore.io/c/valheim/p/Gurebu/Riverheim/)**                   | Changes world generation, so it can significantly affect a new world.                               |
 | **[Goo's Combat Overhaul](https://thunderstore.io/c/valheim/p/gnls/GoosCombatOverhaul/)**       | Fundamentally changes how combat feels and works.                                                   |
 | **[CreatureLevelAndLootControl](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/)** | Makes creatures and bosses able to spawn with 5 stars.                        |
@@ -159,7 +158,6 @@ Mods that expand the animal-taming system or introduce friendly creatures and NP
 Mods that change the world itself, improve exploration, or add new locations and terrain.
 
 * [Riverheim](https://thunderstore.io/c/valheim/p/Gurebu/Riverheim/) — Major world-generation overhaul with larger continents, rivers, lakes, mountains, and other terrain changes.
-* [RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/) — Major ocean expansion with new crops, sea life, food, underwater content, relics, enemies, and an ocean boss.
 * [More World Locations AIO](https://thunderstore.io/c/valheim/p/warpalicious/More_World_Locations_AIO/) — Adds 181 new points of interest including dungeons, ports, traders, and other locations.
 * [Expand World Size](https://thunderstore.io/c/valheim/p/JereKuusela/Expand_World_Size/) — Allows configuration of the world's size and altitude.
 * [Location Placement Accelerator](https://valheim.hexium.gg/mods/Kurios.ZeuS/Location_Placement_Accelerator) — Dramatically speeds up world-generation location placement.

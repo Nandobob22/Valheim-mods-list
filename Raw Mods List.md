@@ -107,7 +107,6 @@
 - [StartupAccelerator](https://thunderstore.io/c/valheim/p/Smoothbrain/StartupAccelerator/) - Makes mods load faster.
 - [TargetPortal](https://thunderstore.io/c/valheim/p/Smoothbrain/TargetPortal/) - Lets you target any portal, instead of having to connect two portals via a tag.
 - [Thunderstruck](https://valheim.hexium.gg/mods/Smoothbrain/Thunderstruck) - Makes the lightning status effect increase damage taken, instead of it being purely cosmetic.
-- [RtDOcean](https://thunderstore.io/c/valheim/p/Soloredis/RtDOcean/) - This expansion adds new crops, sea life, sushi, stews, wraps, friendly ocean creatures, aggressive predators, underwater exploration content, relic crafting, and a full ocean boss encounter.
 - [BlastFurnaceTakesAll](https://thunderstore.io/c/valheim/p/TastyChickenLegs/BlastFurnaceTakesAll/) - Blast Furnace smelts all ore including copperscrap and Iron Ore.  Updated for Mistlands Original mod by tueman
 - [AutoRepair](https://thunderstore.io/c/valheim/p/Tekla/AutoRepair/) - Interacting with a workbench will repair all items it can from your inventory.
 - [Armory](https://thunderstore.io/c/valheim/p/Therzie/Armory/) - Adds the Armory forge that offers new variants of original armors that upgrade to the next biome.
